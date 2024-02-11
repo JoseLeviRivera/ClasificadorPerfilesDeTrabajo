@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  backend:
+    image: joseleviriv/app-profiles-classification:latest
+    ports:
+      - "8000:8000"
+
+  frontend:
+    image: joseleviriv/web-profiles-classification-app:0.0.1
+    network_mode: "host"

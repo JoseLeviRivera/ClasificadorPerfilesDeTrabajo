@@ -1,0 +1,4 @@
+models/*
+reports/*
+regression/*
+.venv/*
