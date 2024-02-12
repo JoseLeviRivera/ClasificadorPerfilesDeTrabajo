@@ -1,4 +1,4 @@
-# ClasificadorPerfilesDeTrabajo
+# Clasificador Perfiles De Trabajos Tech
 
 Este proyecto consiste en un clasificador de perfiles de trabajo construido con FastAPI, que utiliza las siguientes bibliotecas: joblib, pandas, fastapi, uvicorn, numpy, pydantic, scikit-learn y starlette.
 Crear entorno virtual e instalar dependencias
@@ -125,8 +125,8 @@ Para detener los servicios con Docker Compose:
 
 ```
 ## Información
-![Clasificador Perfiles de trabajo](https://clasificadorperfilestrabajo.web.app/)
-![Imagen de clasificador Backend ](https://hub.docker.com/repository/docker/joseleviriv/app-profiles-classification/general)
-![Imagen de clasificador Frontend](https://hub.docker.com/repository/docker/joseleviriv/web-profiles-classification-app/general)
+- ![Clasificador Perfiles de trabajo](https://clasificadorperfilestrabajo.web.app/)
+- ![Imagen de clasificador Backend ](https://hub.docker.com/repository/docker/joseleviriv/app-profiles-classification/general)
+- ![Imagen de clasificador Frontend](https://hub.docker.com/repository/docker/joseleviriv/web-profiles-classification-app/general)
 
 
